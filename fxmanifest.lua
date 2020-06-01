@@ -2,7 +2,16 @@
     Scripted by: Xander Harrison [X. Cross]
 	Edited by: MrDiamondDirt
 --]]
-resource_manifest_version '44febabe-d386-4d18-afbe-5e627f4af937'
+fx_version 'bodacious'
 
-server_script "server.lua"
-client_script "client.lua"
+game 'gta5'
+
+description 'ESX Weasel News Crew'
+
+server_scripts {
+	'server/main.lua'
+}
+
+client_scripts {
+	'client/main.lua'
+}
