@@ -13,3 +13,5 @@ Based off https://github.com/xander1998/saw by xlander1998
 with permission to publish
 
 and with code from https://github.com/ZAUB1/ESX-Binoculars by ZAUB1
+
+Updated for ESX
